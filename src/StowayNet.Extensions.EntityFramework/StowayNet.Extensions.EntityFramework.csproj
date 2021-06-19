@@ -3,6 +3,14 @@
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>StowayNet</RootNamespace>
+    <Version>5.0.0</Version>
+    <Authors>Stoway</Authors>
+    <Company>stoway.net</Company>
+    <Copyright>stoway</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/stoway/StowayNet.Extensions.EntityFramework</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/stoway/StowayNet.Extensions.EntityFramework</RepositoryUrl>
+    <PackageReleaseNotes>Release notes are at https://github.com/stoway/StowayNet.Extensions.EntityFramework/releases</PackageReleaseNotes>
   </PropertyGroup>
 
 </Project>
